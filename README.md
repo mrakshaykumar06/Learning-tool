@@ -1,2 +1,2 @@
 # Learning-tool
-Computer base learning tool for mentally chalenged students.
+Computer base learning tool for mentally challenged students.
